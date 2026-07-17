@@ -2,8 +2,8 @@
 This is the repository for my Antweight battlebot build called peklostroj mini 
 ------------------------------------------------------------------------------------
 
-Its a battlebot with a vertical spinner and a ramp on the back it is 2wd and is in the 150g weight class
-
+Its a battlebot with a (custom) vertical spinner and a ramp on the back it is 2wd and is in the 150g weight class
+it needs 12 m2 screws 
 ----------------------------------------------------------------------------------------------------
 I made it because it seemed like a cool idea for a project and i've learnt a lot along the way 
 And I also made it so it could potentialy compete in local battlebot matches 
