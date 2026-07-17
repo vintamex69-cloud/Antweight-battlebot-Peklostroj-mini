@@ -28,3 +28,9 @@ link:https: //docs.google.com/spreadsheets/d/1AWFLYd5jAfWHRAuPaEHoQLwpPG-sY5sK/e
 
 This is the schematic for the electronics: 
 <img width="864" height="540" alt="PEKLOSTROJMINIwiringdia" src="https://github.com/user-attachments/assets/39574d3e-7848-43b3-8418-b6f45e00f8d1" />
+
+
+THIS PROJECT USES:
+Fusion 360 
+Google chrome 
+Macondo HackClub
